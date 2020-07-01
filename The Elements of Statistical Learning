@@ -1,0 +1,24 @@
+
+The Elements of Statistical Learning:
+https://link.springer.com/content/pdf/10.1007%2F978-0-387-84858-7.pdf
+
+The book is exhaustive in its content, and covers everything you would expect such a book to cover. The table of contents are below.
+
+Introduction
+Overview of Supervised Learning
+Linear Methods for Regression
+Linear Methods for Classification
+Basis Expansions and Regularization
+Kernel Smoothing Methods
+Model Assessment and Selection
+Model Inference and Averaging
+Additive Models, Trees, and Related Methods
+Boosting and Additive Trees
+Neural Networks
+Support Vector Machines and Flexible Discriminants
+Prototype Methods and Nearest-Neighbors
+Unsupervised Learning
+Random Forests
+Ensemble Learning
+Undirected Graphical Models
+High-Dimensional Problems
